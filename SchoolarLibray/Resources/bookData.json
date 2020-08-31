@@ -1,0 +1,93 @@
+[
+    {
+        "id":0,
+        "title": "SQL Queries for Mere Mortals, 4th Edition",
+        "subtitle": "A Hands-On Guide to Data Manipulation in SQL",
+        "isbn13": "9780134858333",
+        "price": "$18.13",
+        "image": "https://itbook.store/img/books/9780134858333.png",
+        "url": "https://itbook.store/books/9780134858333"
+    },
+    {
+        "id":1,
+        "title": "A Developer's Guide to Data Modeling for SQL Server",
+        "subtitle": "Covering SQL Server 2005 and 2008",
+        "isbn13": "9780321497642",
+        "price": "$6.15",
+        "image": "https://itbook.store/img/books/9780321497642.png",
+        "url": "https://itbook.store/books/9780321497642"
+    },
+    {
+        "id":2,
+        "title": "Oracle PL/SQL Language Pocket Reference, 4th Edition",
+        "subtitle": "A Guide to Oracle's PL/SQL Language Fundamentals",
+        "isbn13": "9780596514044",
+        "price": "$5.98",
+        "image": "https://itbook.store/img/books/9780596514044.png",
+        "url": "https://itbook.store/books/9780596514044"
+    },
+    {
+        "id":3,
+        "title": "Learning SQL, 2nd Edition",
+        "subtitle": "Master SQL Fundamentals",
+        "isbn13": "9780596520830",
+        "price": "$14.50",
+        "image": "https://itbook.store/img/books/9780596520830.png",
+        "url": "https://itbook.store/books/9780596520830"
+    },
+    {
+        "id":4,
+        "title": "SQL and Relational Theory",
+        "subtitle": "How to Write Accurate SQL Code",
+        "isbn13": "9780596523060",
+        "price": "$3.50",
+        "image": "https://itbook.store/img/books/9780596523060.png",
+        "url": "https://itbook.store/books/9780596523060"
+    },
+    {
+        "id":5,
+        "title": "Head First SQL",
+        "subtitle": "Your Brain on SQL - A Learner's Guide",
+        "isbn13": "9780596526849",
+        "price": "$3.60",
+        "image": "https://itbook.store/img/books/9780596526849.png",
+        "url": "https://itbook.store/books/9780596526849"
+    },
+    {
+        "id":6,
+        "title": "Beginning SQL Server Modeling",
+        "subtitle": "Model-Driven Application Development in SQL Server 2008",
+        "isbn13": "9781430227519",
+        "price": "$17.99",
+        "image": "https://itbook.store/img/books/9781430227519.png",
+        "url": "https://itbook.store/books/9781430227519"
+    },
+    {
+        "id":7,
+        "title": "Pro SQL Database for Windows Azure, 2nd Edition",
+        "subtitle": "SQL Server in the Cloud",
+        "isbn13": "9781430243953",
+        "price": "$49.99",
+        "image": "https://itbook.store/img/books/9781430243953.png",
+        "url": "https://itbook.store/books/9781430243953"
+    },
+    {
+        "id":8,
+        "title": "Healthy SQL",
+        "subtitle": "A Comprehensive Guide to Healthy SQL Server Performance",
+        "isbn13": "9781430267737",
+        "price": "$42.95",
+        "image": "https://itbook.store/img/books/9781430267737.png",
+        "url": "https://itbook.store/books/9781430267737"
+    },
+    {
+        "id":9,
+        "title": "SQL and Relational Theory, 2nd Edition",
+        "subtitle": "How to Write Accurate SQL Code",
+        "isbn13": "9781449316402",
+        "price": "$16.10",
+        "image": "https://itbook.store/img/books/9781449316402.png",
+        "url": "https://itbook.store/books/9781449316402"
+    }
+]
+ 
